@@ -1,4 +1,4 @@
-# Install dependencies
+# Install dependencies USED FOR BULK EXR IMAGE UPSCALE INSTA RATIO
 !pip install OpenEXR Imath pillow google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
 # Authenticate and mount Google Drive
